@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZigzagView Library Demo</string>
+
+    <string name="green_zigzag">Green ZigZag</string>
+    <string name="purple_zigzag">Purple ZigZag</string>
+    <string name="pink_zigzag">Pink ZigZag</string>
+    <string name="orange_zigzag">Orange ZigZag</string>
+    <string name="red_zigzag">Red ZigZag</string>
+    <string name="blue_zigzag">Blue ZigZag</string>
+
+</resources>
